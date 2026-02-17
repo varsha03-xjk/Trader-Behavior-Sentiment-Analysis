@@ -1,0 +1,43 @@
+**Key Insights**
+1️⃣ Sentiment Drives a Risk–Return Trade-off
+
+The analysis shows that trader performance differs across sentiment regimes.
+During Greed and Extreme Greed periods, average daily PnL is higher.
+However, these periods also exhibit greater PnL volatility, indicating increased risk-taking behavior.
+In contrast, Fear periods show relatively lower profitability but tighter performance distribution.
+This suggests that optimistic sentiment encourages aggressive positioning, amplifying both gains and variability.
+
+2️⃣ Trading Activity Increases During Greed
+
+Trade frequency and average trade size increase during Greed regimes compared to Fear regimes.
+Traders appear more active and confident when sentiment is positive.
+Higher activity does not always proportionally improve win rate, indicating possible overtrading during strong bullish sentiment.
+Fear regimes show more conservative behavior with reduced trading intensity.
+This confirms that sentiment influences not only performance but also trading behavior.
+
+3️⃣ Trader Segments React Differently to Sentiment
+
+Segment analysis reveals heterogeneous behavior:
+Frequent traders increase activity significantly during Greed periods, but their performance volatility also rises.
+Large position traders benefit more during Greed regimes but experience sharper performance swings.
+Consistent traders show relatively stable outcomes across sentiment regimes, suggesting disciplined risk management.
+This indicates that sentiment sensitivity varies by trader profile.
+
+
+**Strategy Recommendations**
+Strategy 1 — Dynamic Risk Adjustment Based on Sentiment
+
+During Greed regimes, traders—especially large position or frequent traders—should implement risk controls such as:
+Reducing position size caps
+Limiting maximum daily trades
+Applying tighter stop-loss rules
+During Fear regimes, disciplined traders may maintain moderate exposure while avoiding aggressive scaling.
+This helps balance the risk–return trade-off observed across sentiment conditions.
+
+Strategy 2 — Overtrading Control During Optimistic Markets
+
+Since trade frequency increases significantly during Greed periods without proportional improvement in win rate, traders should implement:
+A predefined maximum daily trade limit
+Performance-based scaling rules
+Activity thresholds triggered by volatility
+This can prevent performance erosion caused by excessive sentiment-driven activity.
